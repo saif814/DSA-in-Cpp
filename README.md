@@ -8,11 +8,14 @@ Hi there! 👋 I’m ~Saif, a first-year college student beginning my journey in
 
 This repo contains my practice code and learning notes as I explore different DSA topics. Each topic has its own folder with the following structure:
 
+
 Topic/
-├── practice_code.cpp # Code files practicing
-    concepts of the topic
-└── questions/ # Folder containing problem statements or
-                questions related to the topic
+├── practice/              # Practice code for the topic
+│   ├── basic_concepts.cpp
+│   └── more_examples.cpp
+└── questions/             # Solved questions for the topic
+    ├── question1.cpp
+    └── question2.cpp
 
 
 For example, the `Array/` folder contains:
